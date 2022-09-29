@@ -1,22 +1,18 @@
- VIOLÊNCIA INTERPESSOAL/AUTOPROVOCADA - Brasil
-Freqüência por Conjuge e Mês da Notific
-Período:2018
-"Conjuge";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
-"Sim";3906;3475;3881;3767;3582;3427;3525;3855;4147;4573;4111;4400;46649
-"Não";21739;19543;22822;21859;22099;21175;21717;24454;25304;28109;24829;24506;278156
-"Ignorado";1808;1701;1817;1716;1686;1581;1587;1525;1735;1773;1602;1642;20173
-"Em Branco";495;382;386;425;388;369;468;462;528;559;501;413;5376
-"Total";27948;25101;28906;27767;27755;26552;27297;30296;31714;35014;31043;30961;350354
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
- Notas:
- 
-  Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
-  Dados de 2019 referentes ao estado do Espírito Santo são oriundos do Sinan e Sistema de Informação e-SUS VS, em uso pelo estado desde dezembro de 2019.
-  Dados de 2009 a 2014 atualizados em 15/05/2018.
-  Dados de 2015 e 2016 atualizados em 08/11/2018.
-  Dados de 2017 atualizados em 17/04/2019.
-  Dados de 2018 atualizados em 24/06/2020.
-  Dados de 2019 atualizados em 18/03/2021.
-  Dados de 2020 e 2021 atualizados em 16/10/202, dados sujeitos à revisão.
- *Dados disponibilizados no TABNET em 10/2021
- 
+Conjuge;Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez;Total
+Sim;3906;3475;3881;3767;3582;3427;3525;3855;4147;4573;4111;4400;46649
+Não;21739;19543;22822;21859;22099;21175;21717;24454;25304;28109;24829;24506;278156
+Ignorado;1808;1701;1817;1716;1686;1581;1587;1525;1735;1773;1602;1642;20173
+Em Branco;495;382;386;425;388;369;468;462;528;559;501;413;5376
+Total;27948;25101;28906;27767;27755;26552;27297;30296;31714;35014;31043;30961;350354
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+ ;;;;;;;;;;;;;
